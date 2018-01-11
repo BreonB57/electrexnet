@@ -52,7 +52,7 @@
           },
           "title": "Welcome to Electrex",
           "text": "Awesome team gaming accesible to everyone<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">JOIN THE ELECTREX TEAM</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GO TO CHANNEL</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#form1-0\" data-toolbar=\"-mbrBtnMove\">JOIN THE ELECTREX TEAM</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GO TO CHANNEL</a>"
         },
         {
           "_tags": [
