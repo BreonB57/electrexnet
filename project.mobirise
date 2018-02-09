@@ -8,9 +8,13 @@
       "styling": {}
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 5,
+    "uniqCompNum": 9,
     "versionPublish": "3.9.2",
-    "publishType": "github"
+    "publishType": "github",
+    "favicon": "@PROJECT_PATH@/assets/images/thumb14737952297818-128x102-15.jpg",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
@@ -52,7 +56,54 @@
           },
           "title": "Welcome to Electrex",
           "text": "Awesome team gaming accesible to everyone<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#form1-0\" data-toolbar=\"-mbrBtnMove\">JOIN THE ELECTREX TEAM</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GO TO CHANNEL</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#form1-0\" data-toolbar=\"-mbrBtnMove\">JOIN THE ELECTREX TEAM</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://www.youtube.com/channel/UCAPkPFO14wfv5HxePFmoA8A?view_as=subscriber\" data-toolbar=\"-mbrBtnMove\">GO TO CHANNEL</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-5",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "What is Electrex?!",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Electrex is a youtube network, where you can join and make videos, these can be gaming videos, vlogs, challenges, basically anything. The only requirements of joining is you have to stay for 2 years and make at least 1 video per month. The benefits of joining is that we do the editing of videos and making thumbnails. You also get 50% of all earnings from the video.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
           "_tags": [
@@ -73,7 +124,7 @@
             "overlayColor": "#222",
             "showTitle": true
           },
-          "title": "JOIN THE ELECTREX TEAM",
+          "title": "JOIN THE ELECTREX TEAM<br>By submitting you agree to the 2 year rule",
           "form": {
             "action": "icreativecrum@gmail.com",
             "alerts": {
@@ -101,7 +152,12 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Apply</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Apply</a>",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "25px"
+            }
+          }
         },
         {
           "alias": "social-feed",
